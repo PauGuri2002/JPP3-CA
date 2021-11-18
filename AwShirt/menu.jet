@@ -1,0 +1,26 @@
+[
+    {
+        "title":"JUGA",
+        "action":"doPlayGame",
+        "description":"Crea una sala i juga",
+        "value":0
+    },
+    {
+        "title":"CLASSIFICACIONS",
+        "action":"doLeaderboards",
+        "description":"Estadístiques de les últimes partides",
+        "value":1
+    },
+    {
+        "title":"OPCIONS",
+        "action":"doSettings",
+        "description":"Censura, audiència i més",
+        "value":2
+    },
+    {
+        "title":"TORNA AL PACK",
+        "action":"doBackToPack",
+        "description":"Torna al Party Pack",
+        "value":3
+    }
+]

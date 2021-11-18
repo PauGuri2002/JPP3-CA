@@ -1,0 +1,30 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Estadístiques de la Sessió",
+            "description": "Estadístiques de la sessió actual (S\u2019esborraran en tancar el joc.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Estadístiques de Twitch",
+            "description": "Estadístiques de les sessions amb Twitch (Es guardaran encara que tanquis el joc.)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Nom de Jugador"
+    }, {
+        "id": "gamesWon",
+        "name": "Competicions Guanyades"
+    }, {
+        "id": "roundsWon",
+        "name": "Rondes Guanyades"
+    }, {
+        "id": "streaksWon",
+        "name": "Ratxes Guanyades"
+    }, {
+        "id": "shirtalities",
+        "name": "Shirtalities"
+    }]
+}

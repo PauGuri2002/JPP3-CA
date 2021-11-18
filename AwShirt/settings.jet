@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "AwShirtSettingsWidget",
+    "items": [
+        {
+            "title": "Volum",
+            "type": "Range",
+            "clip": "AwShirtSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Fes el joc CRIDANER o SILENCIÓS."
+        },
+        {
+            "title": "Pantalla Completa",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Fes que el joc ocupi la pantalla...completa."
+        },
+        {
+            "title": "Entrenament Ràpid",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtQuickTraining",
+            "description": "Els jugadors dibuixen tres cops en comptes de quatre, i el temps d\u2019escriptura és menor."
+        },
+        {
+            "title": "Audiència",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceOn",
+            "description": "Activa per permetre que no-jugadors entrin i afectin la partida."
+        },
+        {
+            "title": "Suggerències de l\u2019Audiència",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceSuggestions",
+            "description": "Mentres els jugadors dibuixen i escriuen, l\u2019audiència pot enviar suggerències que es mostraran en pantalla."
+        },
+        {
+            "title": "Temporitzadors Extesos",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtExtendedTimers",
+            "description": "Activa temporitzadors molt extesos. Recomanat només per jocs streamejats."
+        },
+        {
+            "title": "Demana Twitch",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtRequireTwitch",
+            "description": "Requereix que els jugadors hagin iniciat sessió a Twitch per jugar."
+        },
+        {
+            "title": "Censura Manual",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtCensorable",
+            "description": "Permet que el VIP (primer jugador en entrar) censuri les respostes dels jugadors."
+        },
+        {
+            "title": "Comença Joc Només amb Mando",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtGamepadStart",
+            "description": "Els jocs només es podran començar amb el mando, no amb els dispositius dels jugadors."
+        },
+        {
+            "title": "Permet Ocultar el Codi",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtHideRoomCode",
+            "description": "Permet que el codi de la sala es pugui mostrar i ocultar."
+        }
+    ]
+}
