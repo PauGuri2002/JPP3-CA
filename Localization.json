@@ -7,7 +7,7 @@
         "INTERNET_DISCONNECTED": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
         "ROOM_DESTROYED": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament.",
         "SOCKET_DISCONNECTED": "Hem perdut la connexió als servidors de Jackbox Games.",
-        "TIMEOUT": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "TIMEOUT": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
         "LOST_LICENSE": "No hem trobat la llicència d'aquest contingut.",
         "STEAM_ERROR": "No hem pogut validar la teva llicència de Steam.",
         "START": "Començar",
@@ -15,7 +15,7 @@
         "LEGAL": "Creat i desenvolupat per Jackbox Games, Inc. Games and Software © 2016-2017 Jackbox Games, Inc. Tots els drets reservats. Jackbox Games i el logotip Jackbox Games són marques registrades de Jackbox Games, Inc. Quiplash, Trivia Murder Party, Guesspionage, Fakin' It, Tee K.O. i Party Pack són marques de Jackbox Games, Inc. Totes les altres marques i logos són propietat dels seus respectius propietaris.",
         "LEGAL_CRIWARE": "Impulsat per \"CRIWARE\". CRIWARE és una marca de CRI Middleware Co., Ltd.",
         "LEGAL_FMOD": "Aquest producte utilitza FMOD Sound System de Firelight Technologies",
-        "LEGAL_SCALEFORM": "Aquest producte de software inclow el software de Autodesk® Scaleform®, © 2012 Autodesk, Inc. Tots els drets reservats. Autodesk, Beast, HumanIK, i Scaleform són marques registrades o marques d'Autodesk, Inc., i/o els seus subsidiaris i/o afiliats als EEUU i/o altres països.",
+        "LEGAL_SCALEFORM": "Aquest producte de software inclou el software de Autodesk® Scaleform®, © 2012 Autodesk, Inc. Tots els drets reservats. Autodesk, Beast, HumanIK, i Scaleform són marques registrades o marques d'Autodesk, Inc., i/o els seus subsidiaris i/o afiliats als EEUU i/o altres països.",
         "LEGAL_PRO": "Creat i desenvolupat per Jackbox Games, Inc. Games and Software © 2016-2017 Jackbox Games, Inc. Tots els drets reservats. Jackbox Games i el logotip Jackbox Games són marques registrades de Jackbox Games, Inc. Quiplash, Trivia Murder Party, Guesspionage, Fakin' It, Tee K.O. i Party Pack són marques de Jackbox Games, Inc. Totes les altres marques i logos són propietat dels seus respectius propietaris. Aquesta versió professional del joc The Jackbox Party Pack 3 és d'ús exclusiu pel titular de la llicència designat i no es pot copiar, transferir ni utilitzar de cap altra manera sense llicència. Qualsevol ús no autoritzat d'aquest software pot anul·lar la llicència."
     },
     "fr": {
